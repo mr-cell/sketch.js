@@ -59,7 +59,7 @@
         toolLinks: true
         defaultTool: 'marker'
         defaultColor: '#000000'
-        defaultSize: 5,
+        defaultSize: 5
         defaultStyle: 'solid'
       }, opts
       @painting = false
